@@ -1,7 +1,7 @@
 # Hi, I'm Kanupriya 👋
-### AI Data Quality Evaluator · Manual QA Lead · Multilingual NLP Specialist
+### AI Data Quality Evaluator · Multilingual NLP Specialist · Manual QA Lead
 
-I evaluate AI systems for what they get wrong — hallucinations, bias, factual inconsistencies, and safety violations. I've reviewed **1000+ LLM-generated outputs** using RLHF methodologies and bring a rare combination of QA rigour, linguistic depth, and AI evaluation expertise.
+I evaluate AI systems for what they get wrong — hallucinations, bias, factual inconsistencies, and safety violations. I've reviewed **1000+ LLM-generated outputs** using RLHF methodologies and bring a rare combination of QA rigour, linguistic depth, MT evaluation expertise, and native Hindi fluency.
 
 ---
 
@@ -10,7 +10,8 @@ I evaluate AI systems for what they get wrong — hallucinations, bias, factual 
 ```
 AI Output Evaluation      →  RLHF · Pairwise Ranking · Hallucination Detection
 Bias & Safety Analysis    →  Toxicity · Fairness · Agreement Instability
-Multilingual QA           →  Hindi · NLP Error Analysis · Localization
+MT Evaluation             →  Post-edit QA · Fluency & Adequacy · Error Taxonomy
+Multilingual QA           →  Hindi NLP · Localization Pipeline · MemoQ
 Manual QA Leadership      →  Test Design · Regression · Release Sign-off
 ```
 
@@ -28,7 +29,7 @@ Built a structured evaluation framework to surface systematic bias patterns acro
 ### 🌐 [AI NLP Hindi Evaluation](https://github.com/kanupriya-GuptaM/ai-nlp-hindi-evaluation)
 > Identifying and categorizing NLP errors in Hindi AI outputs — idiomatic errors, tone mismatch, semantic drift, and model failure patterns.
 
-One of very few public frameworks focused on Hindi NLP quality evaluation. Combines linguistic expertise with structured AI output analysis.
+One of very few public frameworks focused on Hindi NLP quality evaluation. Built on MT evaluation methodology from humanitarian translation work with Translators Without Borders — applying the same error taxonomy frameworks to LLM output assessment.
 
 ---
 
@@ -40,7 +41,7 @@ Simulated real-world annotation QA pipeline — the kind of work that sits behin
 ---
 
 ### 🛒 [E-Commerce Manual QA](https://github.com/kanupriya-GuptaM/E-Commerce-manual-testing)
-> End-to-end manual QA project using Jira & TestRail — cart, checkout, payment, order management flows.
+> End-to-end manual QA using Jira & TestRail — cart, checkout, payment, and order management flows.
 
 ---
 
@@ -56,12 +57,23 @@ Simulated real-world annotation QA pipeline — the kind of work that sits behin
 
 ## 🛠️ Tools & Stack
 
-| QA & Testing | AI Evaluation | Languages & Localization |
+| QA & Testing | AI & MT Evaluation | Localization & Languages |
 |---|---|---|
-| Jira · TestRail · Qase | RLHF Frameworks | Hindi (Native) |
-| Selenium IDE · Postman | Bias & Toxicity Analysis | English (Professional) |
-| GitHub · VS Code | Hallucination Detection | Marathi · Rajasthani + 3 more |
-| Excel · Google Sheets | Multimodal Annotation QA | |
+| Jira · TestRail · Qase | RLHF Frameworks | MemoQ (CAT Tool) |
+| Selenium IDE · Postman | Bias & Toxicity Analysis | Translation Memory QA |
+| GitHub · VS Code | Hallucination Detection | Terminology Management |
+| Excel · Google Sheets | Pairwise Ranking | MT Post-edit Assessment |
+| | Multimodal Annotation QA | Hindi (Native) · English · +4 langs |
+
+---
+
+## 🌍 Multilingual AI Evaluation — My Differentiator
+
+Most AI evaluators work in English only. I bring:
+- **Native Hindi** — evaluating LLM outputs for idiomatic accuracy, cultural fit, and NLP failure patterns that English-only evaluators miss
+- **MemoQ + TWB experience** — MT evaluation methodology directly transferable to LLM output QA
+- **6 languages** across Hindi, Marathi, Rajasthani, Bundelkhandi, Nimadi, and English
+- **Active project** — `ai-nlp-hindi-evaluation` is one of the few public Hindi NLP error frameworks on GitHub
 
 ---
 
@@ -70,7 +82,8 @@ Simulated real-world annotation QA pipeline — the kind of work that sits behin
 - 🔎 Evaluating LLM outputs at **Outlier (Scale AI)** — RLHF, safety, pairwise ranking
 - 🌍 Search quality & multilingual QA at **Welocalize**
 - 👥 Leading manual QA & Hindi localization at **Oppia** (volunteer)
-- 🌱 Building frameworks for multilingual AI evaluation — Hindi NLP focus
+- 📖 Linguistic QA & MT evaluation at **Translators Without Borders** using MemoQ
+- 🌱 Building public frameworks for multilingual AI evaluation
 
 ---
 
